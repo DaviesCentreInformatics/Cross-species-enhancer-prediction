@@ -16,5 +16,5 @@ Code relating to training the models from the VISTA data can be found in these n
 
 ## Model Permutations
 Code relating to model permutations can be found here:
-
+- [Permute model](clean_permutations.ipynb)
 
