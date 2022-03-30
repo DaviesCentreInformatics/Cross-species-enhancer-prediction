@@ -1,7 +1,7 @@
 # Cross-species-enhancer-prediction
 Repo for code relating to our cross-species enhancer predicition work. Insert citation
 
-![](fig1.png)
+![#**Methods Overview**](fig1.png)
 
 ## Training Data
 Code relating to generating the training data from VISTA can be found in these notebooks.
