@@ -1,7 +1,7 @@
 # Cross-species-enhancer-prediction
 Repo for code relating to our cross-species enhancer predicition work. Insert citation
 
-Download the high confidence enhancers here:
+Download the high confidence enhancers here:  
 [Cattle](https://github.com/DaviesCentreInformatics/Cross-species-enhancer-prediction/blob/main/ARS-UCD1.2.200bp.highConfidence.Enhancer.predictions.bed.gz)  
 [Pig](https://github.com/DaviesCentreInformatics/Cross-species-enhancer-prediction/blob/main/SSCROFA11.1.200bp.highConfidence.Enhancer.predictions.bed.gz)  
 [Dog](https://github.com/DaviesCentreInformatics/Cross-species-enhancer-prediction/blob/main/DOG_10K.BOXER.200bp.highConfidence.Enhancer.predictions.bed.gz)  
