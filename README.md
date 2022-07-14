@@ -10,6 +10,14 @@ Repo for code relating to our cross-species enhancer predicition work. Insert ci
 ![](fig1.png)
 
 ## Training Data
+Screenshots from the VISTA database showing how the positive examples were retrieved from the database.
+**Human**
+![](Screen%20Shot%202022-07-14%20at%202.13.59%20pm.png)
+
+
+**Mouse**
+![](Screen%20Shot%202022-07-14%20at%202.14.17%20pm.png)
+
 Code relating to generating the training data from VISTA can be found in these notebooks.
 - Processing VISTA fasta file into ML data. [Process VISTA](data_process_Vista.ipynb)
 - Convert fasta to one-hot encoding. [seq2one-hot](fasta_process_Seq2onehot.ipynb)
