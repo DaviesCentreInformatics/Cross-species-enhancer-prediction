@@ -19,7 +19,7 @@ Screenshots from the VISTA database showing how the positive examples were retri
 ![](Screen%20Shot%202022-07-14%20at%202.14.17%20pm.png)
 
 Code relating to generating the training data from VISTA can be found in these notebooks.
-- Processing VISTA fasta file into ML data. [Process VISTA](data_process_Vista.ipynb)
+- Processing VISTA fasta file into ML data. [Process VISTA](data_process_Vista_clean.ipynb)
 - Convert fasta to one-hot encoding. [seq2one-hot](fasta_process_Seq2onehot.ipynb)
 - Convert fasta to image. [Seq2Img](fasta_process_DNA2Img.ipynb)
 - Convert fasta to word-vector. [Seq2Word-vector](fasta_process_word_vector.ipynb)
