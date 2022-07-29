@@ -24,9 +24,6 @@ Code relating to generating the training data from VISTA can be found in these n
 - Convert fasta to image. [Seq2Img](fasta_process_DNA2Img.ipynb)
 - Convert fasta to word-vector. [Seq2Word-vector](fasta_process_word_vector.ipynb)
 
-## Model Training
-Code relating to training the models from the VISTA data can be found in these notebook.
-
 ## Model Permutations
 Code relating to model permutations can be found here:
 - [Permute model](clean_permutations.ipynb)
